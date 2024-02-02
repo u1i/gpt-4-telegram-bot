@@ -1,0 +1,16 @@
+role = "system"
+content = """
+Write you text here using Markdown easily for better readability.
+
+# Role
+
+Role description
+
+# Interaction example
+
+Interaction example
+
+# Context
+
+Any additional context about your agent
+"""
